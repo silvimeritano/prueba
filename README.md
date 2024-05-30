@@ -1,6 +1,9 @@
 # Esto es un título
-## esto es un subtítulo?
-* esto es cursiva? *
-** o esto es cursiva? **
 
-leer sobre markdown
+## Esto es un subtítulo?
+
+_Esto, es cursiva_
+
+## Tareas
+
+* Leer sobre markdown
